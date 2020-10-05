@@ -563,7 +563,7 @@ function HowToCloudrest.CreateSettingsWindow()
 		type = "panel",
 		name = "HowToCloudrest",
 		displayName = "HowTo|cff00ffCloudrest|r",
-		author = "Floliroy, nogetrandom, XL_Olsen",
+		author = "Floliroy, |cc0c0c0@|rn|cc0c0c0ogetrandom|r, XL_Olsen",
 		version = HowToCloudrest.version,
 		slashCommand = "/HowToCloudrest",
 		registerForRefresh = true,

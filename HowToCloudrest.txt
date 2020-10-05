@@ -1,6 +1,6 @@
 ## Title: HowTo|cff00ffCloudrest|r
 ## APIVersion: 100031 100032
-## Author: Floliroy, nogetrandom, XL_Olsen
+## Author: Floliroy, n|cccccccogetrandom|r, XL_Olsen
 ## Version: 0.7
 ## DependsOn: LibAddonMenu-2.0>=30
 ## SavedVariables: HowToCloudrestVariables
@@ -11,8 +11,8 @@
 ;
 ; You can read the full terms at https://account.elderscrollsonline.com/add-on-terms
 
-Lib/LibCustomTitless/LibCustomTitless.lua
-Lib/LibCustomTitless/Titles/Floliroy.lua
+Lib/HowToCustomTitle/HowToCustomTitle.lua
+Lib/HowToCustomTitle/Titles/Floliroy.lua
 
 
 HowToCloudrestSettings.lua
